@@ -108,5 +108,16 @@
     "lastUpdated": "2025-06-01T16:22:05.800Z",
     "id": "15 minutes.mp3",
     "url": "https://raw.githubusercontent.com/jrheisler/jazira-light/main/documents/15%20minutes.mp3"
+  },
+  {
+    "meta": "",
+    "category": "ACX",
+    "title": "Allegory of the Cave.mp3",
+    "status": "draft",
+    "filename": "Allegory of the Cave.mp3",
+    "createdAt": "2025-06-01T16:22:30.268Z",
+    "lastUpdated": "2025-06-01T16:22:30.268Z",
+    "id": "Allegory of the Cave.mp3",
+    "url": "https://raw.githubusercontent.com/jrheisler/jazira-light/main/documents/Allegory%20of%20the%20Cave.mp3"
   }
 ]
