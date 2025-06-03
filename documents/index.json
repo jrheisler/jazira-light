@@ -53,5 +53,16 @@
     "lastUpdated": "2025-06-03T19:19:05.066Z",
     "id": "FetchStatementandNotices.pdf",
     "url": "https://raw.githubusercontent.com/jrheisler/jazira-light/main/documents/FetchStatementandNotices.pdf"
+  },
+  {
+    "meta": "pdf",
+    "category": "2024 Taxes",
+    "title": "2024_TaxReturn.pdf",
+    "status": "draft",
+    "filename": "2024_TaxReturn.pdf",
+    "createdAt": "2025-06-03T19:19:47.624Z",
+    "lastUpdated": "2025-06-03T19:19:47.624Z",
+    "id": "2024_TaxReturn.pdf",
+    "url": "https://raw.githubusercontent.com/jrheisler/jazira-light/main/documents/2024_TaxReturn.pdf"
   }
 ]
